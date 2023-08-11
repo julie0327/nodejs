@@ -20,7 +20,7 @@ To generate a README file for your project, follow these steps:
 * Run the generator script: node generate-readme.js
 * Follow the prompts and provide information about your project.
 * Once completed, the generated README file will be saved as README.md in your project folder.
-* ![](https://github.com/julie0327/readme_nodejs/blob/main/readme_img.png)
+![](https://github.com/julie0327/readme_nodejs/blob/main/readme_img.png)
 ## Contributing
 Welcome contributions from the community. To contribute to this project, follow these steps:
 * Fork the repository.
