@@ -4,14 +4,14 @@ function renderLicenseBadge(license) {
   if (license !== "none") {
     return `![Github license](https://img.shields.io/badge/license-${license}-blue.svg)`;
   }
-  return "";
+  //return "";
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== "none") {
-    return `\n *[license](#license)\n`;
+    return `* [license](#license)`;
   }
   return "";
 }
@@ -48,7 +48,7 @@ ${data.instruction}
 ## Contributing
 ${data.contributing}
 ## Contact Me
-* Name: ${data.name}
+* Name: ${data.username}
 * Email: ${data.email}
 * Github: [${data.repo}](https://github.com${data.repo})
 ## Testing

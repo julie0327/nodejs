@@ -74,13 +74,7 @@ const questions = [
     type: "checkbox",
     message: "What license do you use?",
     name: "license",
-    choices: [
-      "The MIT License",
-      "The GPL License",
-      "Apache License",
-      "GNU License",
-      "N/A",
-    ],
+    choices: ["MIT", "GPL", "GPLv3", "N/A"],
     // validate: (value) => {
     //   value ? true : "I need a value to continue.";
     // },
