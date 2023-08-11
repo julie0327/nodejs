@@ -1,6 +1,6 @@
 # readme.md
 by Julie
-##Table of Contents
+## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
 * [Instruction](#Instruction)
@@ -30,7 +30,7 @@ Welcome contributions from the community. To contribute to this project, follow 
 ## Contact Me
 * Name: Julie
 * Email: 0327yezi@gmail.com
-* Github: [www.google.com](https://github.comwww.google.com)
+* Github: [https://github.com/julie0327](https://github.com/julie0327)
 ## Testing
 N/A
 ## License
