@@ -11,7 +11,7 @@ by Julie
 ## Description
 The Generate Readme Project is a tool designed to automate the process of creating informative and well-structured README files for your projects. A well-crafted README is essential for helping others understand your project, its purpose, and how to use it effectively. With this tool, you can quickly generate a README template tailored to your project, saving you time and ensuring consistency.
 ## Installation
-* Clone the repository: git clone https://github.com/yourusername/generate-readme-project.git
+* Clone the repository: git clone https://github.com/julie0327/readme_nodejs
 * Navigate to the project directory: cd generate-readme-project
 * Install dependencies: npm install
 ## Instruction
